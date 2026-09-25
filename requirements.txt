@@ -1,0 +1,12 @@
+streamlit>=1.36
+numpy>=1.26
+soundfile>=0.12
+librosa>=0.10
+moviepy>=1.0.3
+torch>=2.2
+transformers>=4.42
+openai>=1.35
+python-dotenv>=1.0
+# Optional, for the native Bambara models:
+# pip install git+https://github.com/sudoping01/whosper.git
+# pip install maliba-ai

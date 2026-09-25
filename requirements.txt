@@ -8,6 +8,7 @@ transformers>=4.42
 faster-whisper>=1.0.3
 openai>=1.35
 python-dotenv>=1.0
-# Required for the Bambara-specific ASR/TTS stack:
+streamlit-option-menu>=0.3.0
+# متطلبات إضافية للبامبارا:
 # pip install git+https://github.com/sudoping01/whosper.git
 # pip install maliba-ai
